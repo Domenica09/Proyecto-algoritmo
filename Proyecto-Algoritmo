@@ -220,7 +220,7 @@ funcion primosgemelos
 		Escribir "No son primos gemelos"
 	FinSi
 Finfuncion
-//                                                     EJERCICIOS DE CADENAS
+//          EJERCICIOS DE CADENAS
 //1)Presentar un nombre caracter por caracter"
 Funcion caracterporcaracter
 	definir n, palabra, cadena Como Caracter
@@ -413,7 +413,7 @@ Funcion Posicion
 	FinPara
 FinFuncion
 
-//                                                     EJERCICIOS DE ARREGLOS
+//       EJERCICIOS DE ARREGLOS
 
 //"Dado un arreglo cualquiera ingresarlo y presentarlo"
 Funcion arreglos1
